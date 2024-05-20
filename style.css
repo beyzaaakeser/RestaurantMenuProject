@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+ body{
+  overflow-x: hidden;
+}
 
 #card {
   max-width: 500px;
@@ -12,27 +15,6 @@
   width: 150px;
   height: 100px;
 }
-/* @media (max-width: 1200px) {
-  #card {
-    max-width: 450px;
-  }
-
-  #card img {
-    width: 100%;
-    height: 240px;
-  }
-}
-
-@media (max-width: 992px) {
-  #card {
-    max-width: 400px;
-  }
-
-  #card img {
-    width: 100%;
-    height: 240px;
-  }
-} */
 
 @media (max-width: 760px) {
   #card {
@@ -44,14 +26,3 @@
     height: 240px;
   }
 }
-
-/* @media (max-width: 576px) {
-  #card {
-    max-width: 300px;
-  }
-
-  #card img {
-    width: 100%;
-    height: 240px;
-  }
-} */

@@ -20,7 +20,7 @@ export const menu = [
     title: 'Godzilla milkshake',
     category: 'shakes',
     price: 24.79,
-    img: './images/item-3.jpeg',
+    img: './images/milk.jpg',
     desc: 'Efsanevi bir lezzet sizi bekliyor! Godzilla Milkshake imizle kendinizi şımartın ve tatlı bir mola verin.',
   },
   {
